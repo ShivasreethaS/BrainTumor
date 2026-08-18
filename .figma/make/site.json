@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly create high-quality content tailored to your needs, empowering businesses and individuals to enhance their online presence and engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
